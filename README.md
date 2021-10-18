@@ -15,6 +15,10 @@ Welcome to the Konveyor Application Modernization Guide. This guide is full open
    * Understanding Analysis Output
    * Implementing Required Changes
  * Replatforming Applications
-   * a
+   * Replatforming applications from Cloud Foundry to Kubernetes
+   * Replatforming applications from Swarm to Kubernetes
  * Rehosting Applications
-   *
+   * [Rehosting virtual machines to KubeVirt](#)
+
+
+### 
