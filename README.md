@@ -19,7 +19,7 @@ Welcome to the Konveyor Application Modernization Guide. This guide is full open
    * Replatforming applications from Swarm to Kubernetes
  * Rehosting Applications
 
-[Rehosting virtual machines to KubeVirt](#Rehosting virtual machines to KubeVirt)
+[Rehosting virtual machines to KubeVirt](#rehosting-virtual-machines-to-kubevirt)
 
 
 ### Rehosting virtual machines to KubeVirt
