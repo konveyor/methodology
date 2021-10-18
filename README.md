@@ -4,7 +4,7 @@ Welcome to the Konveyor Application Modernization Guide. This guide is full open
 
 ## Table of Contents
  * [Contribution Guide](#contribution-guide)
- * Introduction
+ * [Introduction](#introduction)
  * Assessing the Application Portfolio
    * Discovering Applications
    * Building an Inventory
@@ -22,6 +22,10 @@ Welcome to the Konveyor Application Modernization Guide. This guide is full open
 
 
 ### Contribution Guide
+
+
+
+### Introduction
 
 
 
