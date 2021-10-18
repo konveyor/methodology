@@ -6,15 +6,15 @@ Welcome to the Konveyor Application Modernization Guide. This guide is full open
  * Contribution Guide
  * Introduction
  * Assessing the Application Portfolio
-  * Discovering Applications
-  * Building an Inventory
-  * Assessing Applications for Modernization
-  * Reviewing and Deciding Modernization paths
+   * Discovering Applications
+   * Building an Inventory
+   * Assessing Applications for Modernization
+   * Reviewing and Deciding Modernization paths
  * Refactoring Applications
-  * Analyzing an Application for Refactoring
-  * Understanding Analysis Output
-  * Implementing Required Changes
+   * Analyzing an Application for Refactoring
+   * Understanding Analysis Output
+   * Implementing Required Changes
  * Replatforming Applications
-  * a
+   * a
  * Rehosting Applications
-  *
+   *
