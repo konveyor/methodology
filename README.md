@@ -1,6 +1,6 @@
 # Konveyor Application Modernization Guide
 
-Welcome to the Konveyor Application Modernization Guide. This guide is full open source. Contributions are welcome.
+This guide provides an open methodology for modernizing applications. It provides suggestions for how to use the projects within the [Konveyor](www.konveyor.io) community to accelerate the process where applicable.
 
 ## Table of Contents
  * [Contribution Guide](#contribution-guide)
@@ -20,13 +20,21 @@ Welcome to the Konveyor Application Modernization Guide. This guide is full open
  * Rehosting Applications
    * [Rehosting virtual machines to KubeVirt](#rehosting-virtual-machines-to-kubevirt)
 
-
 ### Contribution Guide
 
+To contribute to this guide you can raise a pull request against this repository.
+
+ * Please add images in your pull request into the [images](/images) directory.
 
 
-### Introduction
+### introduction
 
+The Konveyor Application Modernization Methodology follows a 3 part process.
 
+![Process](/images/overview.png)
+
+1. Assess
+2. Analyze
+3. Execute
 
 ### Rehosting virtual machines to KubeVirt
