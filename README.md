@@ -25,6 +25,7 @@ This guide provides an open methodology for modernizing applications. It provide
 To contribute to this guide you can raise a pull request against this repository.
 
  * Please add images in your pull request into the [images](/images) directory.
+ * Whenever possible add a link to the source of your image so users can edit it when necessary.
 
 
 ### introduction
@@ -32,6 +33,7 @@ To contribute to this guide you can raise a pull request against this repository
 The Konveyor Application Modernization Methodology follows a 3 part process.
 
 ![Process](/images/overview.png)
+[Source](https://docs.google.com/drawings/d/1zHTILKacmiP6fHKyqQPHLVsDyHnyiB7sMGQ4clsKzks/edit)
 
 1. Assess
 2. Analyze
