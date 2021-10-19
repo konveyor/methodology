@@ -5,38 +5,83 @@ This guide provides an open methodology for modernizing applications. It provide
 ## Table of Contents
  * [Contribution Guide](#contribution-guide)
  * [Introduction](#introduction)
- * Assessing the Application Portfolio
-   * Discovering Applications
-   * Building an Inventory
-   * Assessing Applications for Modernization
-   * Reviewing and Deciding Modernization paths
- * Refactoring Applications
-   * Analyzing an Application for Refactoring
-   * Understanding Analysis Output
-   * Implementing Required Changes
- * Replatforming Applications
-   * Replatforming applications from Cloud Foundry to Kubernetes
-   * Replatforming applications from Swarm to Kubernetes
- * Rehosting Applications
-   * [Rehosting virtual machines to KubeVirt](#rehosting-virtual-machines-to-kubevirt)
+ * [Assess](#assess)
+ * [Rationalize](#rationalize)
+   * [Discovering Applications](#discovering-applications)
+   * [Populating an Inventory](#populating-an-inventory)
+   * [Assessing Applications for Modernization](#assessing-applications-for-modernization)
+   * [Reviewing and Deciding Modernization Paths](#reviewing-and-deciding-modernization-paths)
+ * [Prepare](#prepare)
+ * [Pilot](#pilot)
+    * [Refactoring Applications](#refactoring-applications)
+      * [Analyzing an Application for Refactoring](#analyzing-an-application-for-refactoring)
+      * [Understanding Analysis Output](#understanding-analysis-output)
+      * [Implementing Required Changes](#implementing-required-changes)
+    * [Replatforming Applications](#replatforming-applications)
+      * [Replatforming applications from Cloud Foundry to Kubernetes](#replatforming-applications-from-cloud-foundry-to-kubernetes)
+      * [Replatforming applications from Swarm to Kubernetes](#replatforming-applications-from-swarm-to-kubernetes)
+      * [Replatforming applications between Kubernetes clusters](#replatforming-applications-between-kubernetes-clusters)
+    * [Rehosting Applications](#rehosting-applications)
+      * [Rehosting virtual machines to KubeVirt](#rehosting-virtual-machines-to-kubevirt)
+ *[Scale](#scale)
 
-### Contribution Guide
+## Contribution Guide
 
-To contribute to this guide you can raise a pull request against this repository.
+To contribute to this guide you can raise a pull request.
 
  * Please add images in your pull request into the [images](/images) directory.
  * Whenever possible add a link to the source of your image so users can edit it when necessary.
+ * Ensure that any tools recommended to be used are open source and freely available to users.
 
-
-### introduction
+## Introduction
 
 The Konveyor Application Modernization Methodology follows a 3 part process.
 
 ![Process](/images/overview.png)
 [Source](https://docs.google.com/drawings/d/1zHTILKacmiP6fHKyqQPHLVsDyHnyiB7sMGQ4clsKzks/edit)
 
-1. Assess
-2. Analyze
-3. Execute
+1. Assess - The Assessment Phase
+2. Rationalize - The Rationalization Phase
+3. Prepare - The Prepare Phase
+4. Pilot - The Pilot Phase
+5. Scale - The Scale Phase
 
-### Rehosting virtual machines to KubeVirt
+## Assess
+
+The assessment
+
+## Rationalize
+
+### Discovering applications
+
+### Populating an Inventory
+
+### Assessing Applications for Modernization
+
+### Reviewing and Deciding Modernization Paths
+
+## Prepare
+
+## Pilot
+
+### Refactoring Applications
+
+#### Analyzing an Application for Refactoring
+
+#### Understanding Analysis Output
+
+#### Implementing Required Changes
+
+### Replatforming Applications
+
+#### Replatforming applications from Cloud Foundry to Kubernetes
+
+#### Replatforming applications from Swarm to kubernetes
+
+#### Replatforming applications between Kubernetes Clusters
+
+### Rehosting applications
+
+#### Rehosting virtual machines to KubeVirt
+
+## Scale
