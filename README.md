@@ -35,16 +35,16 @@ To contribute to this guide you can raise a pull request.
 
 ## Introduction
 
-The Konveyor Application Modernization Methodology follows a 3 part process.
+The Konveyor Application Modernization Methodology has 5 phases.
 
 ![Process](/images/overview.png)
 [Source](https://docs.google.com/drawings/d/1zHTILKacmiP6fHKyqQPHLVsDyHnyiB7sMGQ4clsKzks/edit)
 
-1. Assess - The Assessment Phase
-2. Rationalize - The Rationalization Phase
-3. Prepare - The Prepare Phase
-4. Pilot - The Pilot Phase
-5. Scale - The Scale Phase
+1. [Assess](#assess) - The Assessment Phase
+2. [Rationalize](#rationalize) - The Rationalization Phase
+3. [Prepare](#prepare) - The Prepare Phase
+4. [Pilot](#pilot) - The Pilot Phase
+5. [Scale](#scale) - The Scale Phase
 
 ## Assess
 
