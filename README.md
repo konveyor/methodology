@@ -85,3 +85,11 @@ The assessment
 #### Rehosting virtual machines to KubeVirt
 
 ## Scale
+
+## Glossary
+
+A glossary of common terms used within the guide
+
+ - Rehost
+ - Replatform
+ - Refactor
