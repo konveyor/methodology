@@ -17,22 +17,22 @@ This guide provides an open methodology for modernizing applications. It provide
    * [Assessing Applications for Modernization](#assessing-applications-for-modernization)
    * [Reviewing and Deciding Modernization Paths](#reviewing-and-deciding-modernization-paths)
  * [Prepare](#prepare)
-    * Executing the mitigation strategy
-    * Implementing an application deployment model
-      * Creating deployment manifests
-      * Runtime images
-      * Configuration model
-      * Application Lifecycle Management
+    * [Executing the mitigation strategy](#executing-the-mitigation-strategy)
+    * [Implementing an application deployment model](#implementing-an-application-deployment-model)
+      * [Creating deployment manifests](#creating-deployment-manifests)
+      * [Runtime images](#runtime-images)
+      * [Configuration model](#configuration-model)
+      * [Application Lifecycle Management](#application-lifecycle-management)
  * [Pilot](#pilot)
-    * Execute the first adoption sprint
-      * Migrate a representative set of applications
-      * Documentation
-      * Testing the migration process
-      * Testing the organization
+    * [Execute the first adoption sprint](#execute-the-first-adoption-sprint)
+      * [Migrate a representative set of applications](#migrate-a-representative-set-of-applications)
+      * [Documentation](#documentation)
+      * [Testing the migration process](#testing-the-migration-process)
+      * [Testing the organization](#testing-the-organization)
  * [Scale](#scale)
-    * Migrating the application portfolio
-      * Scaling the adoption team
-      * Migrating in sprints
+    * [Migrating the application portfolio](#migrating-the-application-portfolio)
+      * [Scaling the adoption team](#scaling-the-adoption-team)
+      * [Migrating in sprints](#migrating-in-sprints)
  * [Glossary](#glossary)
 
 ## Contribution Guide
@@ -58,7 +58,7 @@ The Konveyor Application Modernization Methodology has 5 phases.
 
 ## Assess
 
-The assessment
+In the assessment phase ...
 
 ### Understanding the Application Landscape
 
@@ -70,6 +70,8 @@ The assessment
 
 ## Rationalize
 
+In the rationalize phase ...
+
 ### Discovering applications
 
 ### Populating an Inventory
@@ -79,6 +81,8 @@ The assessment
 ### Reviewing and Deciding Modernization Paths
 
 ## Prepare
+
+In the prepare phase ...
 
 ### Executing the mitigation strategy
 
@@ -94,6 +98,8 @@ The assessment
 
 ## Pilot
 
+In the pilot phase ...
+
 ### Execute the first adoption sprints
 
 #### Migrate a representative set of applications
@@ -105,6 +111,8 @@ The assessment
 #### Testing the organization
 
 ## Scale
+
+In the scale phase ...
 
 ### Migrating the application portfolio
 
