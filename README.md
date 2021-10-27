@@ -37,11 +37,7 @@ This guide provides an open methodology for modernizing applications. It provide
 
 ## Contribution Guide
 
-To contribute to this guide you can raise a pull request.
-
- * Please add images in your pull request into the [images](/images) directory.
- * Whenever possible add a link to the source of your image so users can edit it when necessary.
- * Ensure that any tools recommended to be used are open source and freely available to users.
+To contribute to this methodology you can raise a pull request following the [Contribution Guide](/CONTRIBUTING.md).
 
 ## Introduction
 
