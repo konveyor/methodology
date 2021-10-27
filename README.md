@@ -17,9 +17,9 @@ This guide provides an open methodology for modernizing applications. It provide
    * [Assessing Applications for Modernization](#assessing-applications-for-modernization)
    * [Reviewing and Deciding Modernization Paths](#reviewing-and-deciding-modernization-paths)
  * [Prepare](#prepare)
-    * Execute mitigation strategy
-    * Implementing application deployment model
-      * Creating Deployment Manifests
+    * Executing the mitigation strategy
+    * Implementing an application deployment model
+      * Creating deployment manifests
       * Runtime images
       * Configuration model
       * Application Lifecycle Management
@@ -33,6 +33,7 @@ This guide provides an open methodology for modernizing applications. It provide
     * Migrating the application portfolio
       * Scaling the adoption team
       * Migrating in sprints
+ * [Glossary](#glossary)
 
 ## Contribution Guide
 
@@ -59,6 +60,14 @@ The Konveyor Application Modernization Methodology has 5 phases.
 
 The assessment
 
+### Understanding the Application Landscape
+
+### Technologies and Runtimes
+
+### Application Lifecycle Management Processes
+
+### Identifying Risks Early
+
 ## Rationalize
 
 ### Discovering applications
@@ -71,29 +80,37 @@ The assessment
 
 ## Prepare
 
+### Executing the mitigation strategy
+
+### Implementing an application deployment model
+
+#### Creating deployment Manifests
+
+#### Runtime images
+
+#### Configuration model
+
+#### Application Lifecycle Management
+
 ## Pilot
 
-### Refactoring Applications
+### Execute the first adoption sprints
 
-#### Analyzing an Application for Refactoring
+#### Migrate a representative set of applications
 
-#### Understanding Analysis Output
+#### Documentation
 
-#### Implementing Required Changes
+#### Testing the migration process
 
-### Replatforming Applications
-
-#### Replatforming applications from Cloud Foundry to Kubernetes
-
-#### Replatforming applications from Swarm to kubernetes
-
-#### Replatforming applications between Kubernetes Clusters
-
-### Rehosting applications
-
-#### Rehosting virtual machines to KubeVirt
+#### Testing the organization
 
 ## Scale
+
+### Migrating the application portfolio
+
+#### Scaling the adoption team
+
+#### Migrating in sprints
 
 ## Glossary
 
