@@ -6,6 +6,11 @@ This guide provides an open methodology for modernizing applications. It provide
  * [Contribution Guide](#contribution-guide)
  * [Introduction](#introduction)
  * [Assess](#assess)
+   * Understanding the Application Landscape
+   * Technologies and Runtimes
+   * Application Lifecycle Management Processes
+   * Identifying Risks Early
+   * Understanding Mitigation Strategies
  * [Rationalize](#rationalize)
    * [Discovering Applications](#discovering-applications)
    * [Populating an Inventory](#populating-an-inventory)
