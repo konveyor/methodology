@@ -17,18 +17,22 @@ This guide provides an open methodology for modernizing applications. It provide
    * [Assessing Applications for Modernization](#assessing-applications-for-modernization)
    * [Reviewing and Deciding Modernization Paths](#reviewing-and-deciding-modernization-paths)
  * [Prepare](#prepare)
+    * Execute mitigation strategy
+    * Implementing application deployment model
+      * Creating Deployment Manifests
+      * Runtime images
+      * Configuration model
+      * Application Lifecycle Management
  * [Pilot](#pilot)
-    * [Refactoring Applications](#refactoring-applications)
-      * [Analyzing an Application for Refactoring](#analyzing-an-application-for-refactoring)
-      * [Understanding Analysis Output](#understanding-analysis-output)
-      * [Implementing Required Changes](#implementing-required-changes)
-    * [Replatforming Applications](#replatforming-applications)
-      * [Replatforming applications from Cloud Foundry to Kubernetes](#replatforming-applications-from-cloud-foundry-to-kubernetes)
-      * [Replatforming applications from Swarm to Kubernetes](#replatforming-applications-from-swarm-to-kubernetes)
-      * [Replatforming applications between Kubernetes clusters](#replatforming-applications-between-kubernetes-clusters)
-    * [Rehosting Applications](#rehosting-applications)
-      * [Rehosting virtual machines to KubeVirt](#rehosting-virtual-machines-to-kubevirt)
- *[Scale](#scale)
+    * Execute the first adoption sprint
+      * Migrate a representative set of applications
+      * Documentation
+      * Testing the migration process
+      * Testing the organization
+ * [Scale](#scale)
+    * Migrating the application portfolio
+      * Scaling the adoption team
+      * Migrating in sprints
 
 ## Contribution Guide
 
