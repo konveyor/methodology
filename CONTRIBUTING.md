@@ -12,8 +12,8 @@
 
 ## Code of Conduct
 
-This project is governed by our [Code of Conduct](/CODE_OF_CONDUCT.md). All participants are expected to
-uphold this code. Violations of the code can be reported by contacting us in communication channels.
+This project is governed by our [Code of Conduct](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md). All
+participants are expected to uphold this code. Violations of the code can be reported by contacting us in communication channels.
 
 ## How to contribute
 
@@ -67,8 +67,8 @@ All submissions, including submissions by project members, need to be reviewed b
 * Other reviewers, including committers, may comment on the changes and suggest modifications. Changes can
 be added by simply pushing more commits to the same branch.
 * Please add a comment and "@" the reviewer in the PR if you have addressed reviewers' comments.
-* Any conversation must comply with the [Code of Conduct](./CODE_OF_CONDUCT.md) of the community. The outcome
-may be a rejection of the entire change.
+* Any conversation must comply with the [Code of Conduct](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md)
+of the community. The outcome may be a rejection of the entire change.
 * Reviewers will typically include the acronym “LGTM” (`Looks Good To Me`) in their approval comment. This is a
 convention defined to approve PR before the “approve” it.
 * Sometimes, other changes will be merged which conflict with your PR's changes. The PR cannot
