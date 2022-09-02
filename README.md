@@ -334,3 +334,8 @@ A glossary of common terms used within the guide
  - Rehost
  - Replatform
  - Refactor
+
+## Code of Conduct
+
+This project is governed by our [Code of Conduct](https://github.com/konveyor/community/blob/main/CODE_OF_CONDUCT.md). All
+participants are expected to uphold this code. Violations of the code can be reported by contacting us in communication channels.
